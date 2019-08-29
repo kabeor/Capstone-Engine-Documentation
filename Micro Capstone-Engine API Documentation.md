@@ -2,7 +2,7 @@
 
 **Warning:** ***This is an unofficial API document by [kabeor](https://github.com/kabeor), If there are any mistakes, welcome to ask.***
 
-**注意：** ***这是由kabeo制作的非官方API参考文档，如有错误欢迎提出***
+**注意：** ***这是由[kabeor](https://github.com/kabeor)制作的非官方API参考文档，如有错误欢迎提出***
 
 
 
